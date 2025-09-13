@@ -9,11 +9,13 @@ Classify hand-drawn digits (0–9) using a Convolutional Neural Network trained 
 
 ---
 
-✨ **Overview**  
+✨ **Overview** 
+
 This project trains a CNN on the MNIST dataset (handwritten digits) and achieves ≈99% test accuracy.  
 It includes model training, saved artifacts, evaluation reports, and an interactive **Streamlit app** where you can **draw or upload a digit** to classify it.  
 
-🛠️ **Workflow**  
+🛠️ **Workflow** 
+
 - Load MNIST dataset from TensorFlow  
 - Preprocess images (normalize, center, resize, invert)  
 - Train a baseline CNN to >98.5% accuracy  
@@ -64,6 +66,7 @@ Test Loss       0.0266
 🚀 **Deployment**
 
 This app is deployed on Streamlit Cloud:
+
 👉 [Try it here](https://ai-mnist-tf-noellabuti.streamlit.app)  
 
 📜 **License**
