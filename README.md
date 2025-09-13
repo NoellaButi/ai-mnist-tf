@@ -6,7 +6,6 @@ Classify hand-drawn digits (0–9) using a Convolutional Neural Network trained 
 ![App](https://img.shields.io/badge/app-Streamlit-red.svg)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-mnist-tf-noellabuti.streamlit.app)  
 
 ---
 
