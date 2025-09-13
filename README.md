@@ -1,11 +1,11 @@
 # MNIST Digit Classifier 🧠✍️  
-Classify hand-drawn digits (0–9) using a Convolutional Neural Network trained on MNIST  
+Classify hand-drawn digits (0–9) using a Convolutional Neural Network trained on MNIST
 
-![Language](https://img.shields.io/badge/language-Python-blue.svg)  
-![Notebook](https://img.shields.io/badge/tool-Jupyter-orange.svg)  
-![App](https://img.shields.io/badge/app-Streamlit-red.svg)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-
+![Language](https://img.shields.io/badge/language-Python-blue.svg) 
+![Notebook](https://img.shields.io/badge/tool-Jupyter-orange.svg) 
+![App](https://img.shields.io/badge/app-Streamlit-red.svg) 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-mnist-tf-noellabuti.streamlit.app)
 
 ---
 
