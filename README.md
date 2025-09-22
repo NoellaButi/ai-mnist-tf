@@ -61,7 +61,12 @@ Metric	Value
 Accuracy	99.11%
 Loss	0.0266
 
+## 📷 Visuals
 ![Confusion Matrix](reports/confusion_matrix.png)
+
+![Most-Confident Misclassifications](reports/most_confident_mistakes.png)
+
+![Reliability (Calibration) Curve](reports/reliability.png)
 
 ## 🔮 Roadmap
 - Add ONNX/TFLite export for mobile
