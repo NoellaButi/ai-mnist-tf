@@ -60,7 +60,7 @@ ai-mnist-tf/
 ```md
 | Metric    |   Value   |
 |-----------|----------:|
-| Accuracy  | **97.64%** |
+| Accuracy  | `97.64%`  |
 | Correct   | 9,764     |
 | Incorrect | 236       |
 | Loss      | —         |
