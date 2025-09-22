@@ -67,6 +67,8 @@ ai-mnist-tf/
 ```
 
 ## 📷 Visuals
+![Acccuracy Loss](reports/acc_loss.png)
+
 ![Confusion Matrix](reports/confusion_matrix.png)
 
 ![Most-Confident Misclassifications](reports/most_confident_mistakes.png)
