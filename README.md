@@ -7,7 +7,7 @@ Classify hand-drawn digits (0–9) with a TensorFlow/Keras **CNN** — plus a **
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
 ![CI](https://github.com/NoellaButi/ai-mnist-tf/actions/workflows/ci.yml/badge.svg?branch=main)
 
-👉 **Live Demo (Streamlit):** https://ai-mnist-tf-noella-buti.streamlit.app
+👉 [**Live Demo (Streamlit)**](https://ai-mnist-tf-noella-buti.streamlit.app/)  
 
 ![App Demo](docs/mnist_app_demo.png)
 
