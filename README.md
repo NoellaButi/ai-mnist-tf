@@ -31,9 +31,7 @@ It includes preprocessing (invert → crop → center → resize), saved artifac
 
 ### Train (local)
 ```bash
-python notebooks/train_mnist.py
-# or, if you have a src script:
-# python src/train.py
+python notebooks/train_mnist_cnn.py
 ```
 
 Run the app
@@ -53,8 +51,7 @@ ai-mnist-tf/
 ├─ artifacts/      # saved model (e.g., model.h5 / .keras)
 ├─ reports/        # metrics, plots, confusion matrix
 ├─ notebooks/      # training notebook(s)
-├─ src/            # (optional) training/eval scripts
-├─ docs/           # mnist_app_demo.png / screenshots
+├─ docs/           # mnist_app_demo.png
 ├─ requirements.txt
 └─ README.md
 ```
@@ -65,7 +62,6 @@ Accuracy	99.11%
 Loss	0.0266
 
 ![Confusion Matrix](reports/confusion_matrix.png)
-(Put confusion matrix / sample predictions in reports/ and link them here if you like.)
 
 🔮 Roadmap
 - Add ONNX/TFLite export for mobile
