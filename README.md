@@ -9,7 +9,7 @@ Classify hand-drawn digits (0–9) using a TensorFlow/Keras CNN — with a **Str
 
 👉 [**Live Demo (Streamlit)**](https://ai-mnist-tf-noella-buti.streamlit.app)
 
-![App Demo](docs/mnist_tf_app_demo.png)
+![App Demo](docs/mnist_app_demo.png)
 
 ---
 
