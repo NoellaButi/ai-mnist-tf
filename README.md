@@ -63,12 +63,12 @@ Loss	0.0266
 
 ![Confusion Matrix](reports/confusion_matrix.png)
 
-🔮 Roadmap
+## 🔮 Roadmap
 - Add ONNX/TFLite export for mobile
 - Add doodle pad smoothing & threshold knob
 - Batch upload evaluation page
 
-📜 License
+## 📜 License
 MIT (see LICENSE)
 
 ---
