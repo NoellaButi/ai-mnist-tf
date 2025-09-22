@@ -64,6 +64,7 @@ Metric	Value
 Accuracy	99.11%
 Loss	0.0266
 
+![Confusion Matrix](reports/confusion_matrix.png)
 (Put confusion matrix / sample predictions in reports/ and link them here if you like.)
 
 🔮 Roadmap
