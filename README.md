@@ -77,6 +77,6 @@ ai-mnist-tf/
 - Batch image evaluation page
 
 ## 📜 License
-MIT (see LICENSE)
+MIT (see [LICENSE](LICENSE))
 
 ---
