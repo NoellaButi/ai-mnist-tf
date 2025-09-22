@@ -57,16 +57,21 @@ ai-mnist-tf/
 ```
 
 ## 📊 Results (Held-Out Test Set)
-Metric	Value
-Accuracy	99.11%
-Loss	0.0266
+```md
+| Metric    |   Value   |
+|-----------|----------:|
+| Accuracy  | **97.64%** |
+| Correct   | 9,764     |
+| Incorrect | 236       |
+| Loss      | —         |
+```
 
 ## 📷 Visuals
 ![Confusion Matrix](reports/confusion_matrix.png)
 
 ![Most-Confident Misclassifications](reports/most_confident_mistakes.png)
 
-![Reliability (Calibration) Curve](reports/reliability.png)
+![Reliability (Calibration) Curve](reports/reliability_diagram.png)
 
 ## 🔮 Roadmap
 - Add ONNX/TFLite export for mobile
