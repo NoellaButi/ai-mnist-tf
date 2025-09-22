@@ -76,6 +76,8 @@ ai-mnist-tf/
 
 ![Reliability (Calibration) Curve](reports/reliability_diagram.png)
 
+![Saliency](reports/saliency.png)
+
 ## 🔮 Roadmap
 - Add ONNX/TFLite export for mobile
 - Add doodle pad smoothing & threshold knob
