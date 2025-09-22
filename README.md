@@ -54,7 +54,7 @@ ai-mnist-tf/
 ├─ reports/        # metrics, plots, confusion matrix
 ├─ notebooks/      # training notebook(s)
 ├─ src/            # (optional) training/eval scripts
-├─ docs/           # mnist_tf_app_demo.png / screenshots
+├─ docs/           # mnist_app_demo.png / screenshots
 ├─ requirements.txt
 └─ README.md
 ```
