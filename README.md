@@ -57,7 +57,7 @@ ai-mnist-tf/
 ```
 
 ## 📊 Results (Held-Out Test Set)
-```md
+
 | Metric                   |   Value    |
 |--------------------------|-----------:|
 | Accuracy (test)          | **97.64%** |
@@ -65,7 +65,7 @@ ai-mnist-tf/
 | Incorrect                | 236        |
 | Train Loss (final epoch) | 0.1047     |
 | Val Loss (final epoch)   | 0.1325     |
-```
+
 
 ## 📷 Visuals
 ![Acccuracy Loss](reports/acc_loss.png)
